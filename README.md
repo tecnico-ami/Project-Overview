@@ -74,22 +74,11 @@ IMPORTANT: the proposal document must be submitted on that same week, on the day
 
 The planned project will need to have, _at least_:
 
-(TODO: these are a set of common requirements across all topics)
+- sensors;
+- actuators;
+- network communication.
 
-- a set of separate (virtual) machines, with network isolation;
-- software components with tests;
-- hardware components with demonstration.
-
-### 2.3.2. Versions
-
-The proposal should describe three versions of the work: _basic_, _intermediate_ and _advanced_.  
-The basic version is the bare minimum functionality.  
-The intermediate version includes the most important features.  
-The advanced version should try to present new and innovative features.
-
-As an analogy, the basic version should correspond to a 10 values project, the intermediate to a 15 and the advanced to a 20 (maximum grade).
-
-### 2.3.3. Document requirements
+### 2.3.2. Document requirements
 
 - PDF format;
 - Mandatory file name `CXX_WWW_HHMM_L_proposal.pdf` 
@@ -116,19 +105,20 @@ Use around 200 words.
 2. Proposed solution  
   2.1. Overview  
   Diagram and explanation with at most 200 words.  
-  2.2. Deployment  
-  Describe distinct machines and how they will be interconnected.  
-  2.3. Communication channel(s)
-  Identify communicating entities.  
-  2.4. Functionalties to develop  
+  2.2 Platform  
+  Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)
+  2.3. Functionalities to develop  
   Identify communicating entities and the messages they exchange with a sequence or collaboration diagram.  
   Choose language for implementation.  
+  2.4. Communication channel(s)
+  Identify communicating entities.  
+  2.5. Deployment  
+  Describe distinct devices and how they will be interconnected.  
 3. Plan  
-  3.1. Versions  
-  Describe basic, intermediate and advanced versions of the work and when are they expected to be achieved.  
-  3.2. Effort commitments  
-  Table containing one row per week until the submission date and one column per group member with expected activities for the given week.  
-  Some cells may be left blank because of work in other courses.  
+  3.1. Tasks  
+  Describe tasks required to gradually develop the work.  
+  3.2. Schedule  
+  Calendar of the tasks, assignment of group members to tasks.  
 4. References  
 Tools, libraries, and other references that will be used in the project.  
 
