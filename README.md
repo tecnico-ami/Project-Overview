@@ -244,16 +244,16 @@ The relevant dates for the project are shown in the following calendar (all date
 
 | **Stage**                  | **Deadline**                                                                      |
 | ---------------------------|-----------------------------------------------------------------------------------|
-| 1. Assemble team           | On the labs, before Friday, TODO |
-| 2. Pick topic              | Topic list published: Tuesday, TODO<br />Form opens: Thursday, TODO, 13:00<br />**Closes: Friday, TODO, 17:00** |
-| 3. Write proposal          | Week of TODO<br />**Submit before 20:00 of the day after your lab session**<br /> |
-| 4. Await approval          | Week of TODO |
-| 5. Develop project         | During the weeks of TODO, TODO, TODO, articulated with other coursework |
-| 6. Prepare demonstration   | Start preparing once you have the intermediate version of the work.<br />Suggested week: TODO |
-| 7. Write report            | Update as you complete basic, intermediate and advanced versions.<br />Final revision: TODO |
-| 8. Submit code and report  | **Friday, TODO, 17:00** |
-| 9. Check presentation session | Opens: Wednesday, TODO<br />**Changes close: Friday, TODO, 18:00** |
-| 10. Present and defend     | Sessions start Monday, TODO and are expected to end on Friday, TODO<br />**Submit slides and video link before 20:00 of the day after your presentation** |
+| 1. Assemble team           | Week of March 7th, 2022. Opens on Wednesday, March 9th, 2022, 11:30 |
+| 2. Pick topic              | Until Friday, March 11th, 2022, 17:00 |
+| 3. Write proposal          | Until Thursday, March 17th, 2022, 17:00 |
+| 4. Await approval          | In the next lab session, after the submission |
+| 5. Develop project         | Until Friday, April 8th, 2022, 17:00 |
+| 6. Prepare demonstration   | Start preparing before submission |
+| 7. Write report            | Update document as you go |
+| 8. Submit code and report  | **Code**: Friday, April 8th, 2022, 17:00. **Report:** Tuesday, April 12th, 2002, 17:00 |
+| 9. Check presentation session | Until Tuesday, April 12th, 2022, 17:00 |
+| 10. Present and defend     | Sessions start Monday, April 18th, 2022. |
 
 ----
 
