@@ -196,9 +196,9 @@ For the discussion questions, students can answer in Portuguese.
 
 The presentations will be organized as follows:
 
-- 8 minutes for presentation of the work done, supported by slides, including a mandatory 2 minute live demo  
+- 10 minutes for presentation of the work done, supported by slides, including a mandatory live demo  
 (also prepare a video of the demo, as backup, just in case there is a technical problem);
-- 7 minutes for questions and answers.
+- 10 minutes for questions and answers.
 
 It is highly recommended that each presentation includes:
 
@@ -225,7 +225,7 @@ IMPORTANT: after making the presentation, you will have to submit the presentati
 - ZIP format;
 - The mandatory file name is `CXX_WWW_HHMM_L_presentation.zip`;
 - Presentation in PDF and also in source format (e.g. PowerPoint);
-- Text file containing link(s) to download video and screenshots of the solution. 
+- Text file containing link(s) to download video, photos, screenshots and other media of the solution in action. 
 The links must be valid for one month, at least.
 The video can also be published in YouTube or a similar platform.
 
@@ -259,7 +259,7 @@ The relevant dates for the project are shown in the following calendar (all date
 
 ## 3.1. Updates
 
-IMPORTANT: keep track of the course [web site](TODO) for updates and links to online forms.
+IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/AI/2021-2022/2-semestre) for updates and links to online forms.
 
 If there are changes to this document, they can be consulted in the _Git Commit History_.
 
