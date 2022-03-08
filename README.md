@@ -88,7 +88,7 @@ In the next row: group members sorted by ascending student number.
 For each student, include the number, name and a professional photo.
 All photos should be framed so that the faces are approximately of the same size;
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
-- Limit 4 pages (excluding cover);
+- Limit 5 pages (excluding cover);
 - Pages should be numbered (preferably with a label like `Page X of Y`);
 - The use of diagrams (such as UML or SysML) is recommended for clear and concise communication.
 
@@ -153,7 +153,7 @@ The report document should update and extend the proposal document to reflect wh
 - Mandatory file name `CXX_WWW_HHMM_L_report.pdf`;
 - Report cover;
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
-- Limit of 5 pages (excluding cover), plus 2 pages for Annexes if necessary for reference materials;
+- Target size of 10 pages (excluding cover), with a limit of 15 pages including Appendixes for reference materials;
 - Pages must be numbered (preferably with a label like `Page X of Y`).
 
 ### 2.7.2. Document structure (mandatory)
