@@ -107,11 +107,11 @@ Use around 200 words.
   Diagram and explanation with at most 200 words.  
   2.2 Platform  
   Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)  
-  2.3. Functionalities to develop  
-  Identify communicating entities and the messages they exchange with a sequence or collaboration diagram.  
   Choose language for implementation.  
-  2.4. Communication channel(s)
-  Identify communicating entities.  
+  2.3. Functionalities to develop  
+  Identify entities and the messages they exchange with a sequence or collaboration diagram.  
+  2.4. Communication channel(s)  
+  Identify the technologies used to communicate.  
   2.5. Deployment  
   Describe distinct devices and how they will be interconnected.  
 3. Plan  
