@@ -96,31 +96,40 @@ All photos should be framed so that the faces are approximately of the same size
 
 1. Problem  
 _Given the chosen scenario, what is the problem being solved?_  
+_What is the value to be added by the solution?_  
 Use around 200 words.  
   1.1. Assumptions  
   _Which conditions are assumed to be true for the solution to operate as intended?_  
-  1.2. Requirements  
+  1.2. Solution Requirements  
   _Which requirements were identified for the solution?_  
   Present as a list.  
 2. Proposed solution  
   2.1. Overview  
   Diagram and explanation with at most 200 words.  
-  2.2 Platform  
-  Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)
-  2.3. Functionalities to develop  
-  Identify communicating entities and the messages they exchange with a sequence or collaboration diagram.  
-  Choose language for implementation.  
-  2.4. Communication channel(s)
-  Identify communicating entities.  
-  2.5. Deployment  
-  Describe distinct devices and how they will be interconnected.  
+  2.2 Logical design  
+    2.2.1 Functionalities to develop  
+    Identify functions that the solution will perform.  
+    2.2.2 Communication channel(s)  
+    Identify communicating entities and the messages they exchange with a sequence or collaboration diagram.  
+  2.3 Technology selection
+    2.3.1 Platform  
+    Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)  
+    Choose language(s) for implementation.  
+    2.3.2. Deployment  
+    Describe how the devices wil be assembled and interconnected for the demonstrator.  
 3. Plan  
   3.1. Tasks  
   Describe tasks required to gradually develop the work.  
+  Start with the core functionalities, and then more advanced functions.  
   3.2. Schedule  
-  Calendar of the tasks, assignment of group members to tasks.  
-4. References  
-Tools, libraries, and other references that will be used in the project.  
+  Calendar of the tasks and assignment of group members to tasks.  
+4. Bill-of-materials  
+  4.1 Hardware  
+  List of hardware components required for the work, and their purpose.  
+  4.2 Software  
+  Tools and libraries to use, and their purpose.  
+5. Bibliography  
+  Scientific and technical publications cited in the proposal text.  
 
 ## 2.4. Await approval
 
