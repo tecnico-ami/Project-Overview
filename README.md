@@ -162,15 +162,16 @@ The report document should update and extend the proposal document to reflect wh
 - Mandatory file name `CXX_WWW_HHMM_L_report.pdf`;
 - Report cover;
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
-- Target size of 10 pages (excluding cover), with a limit of 15 pages including Appendixes for reference materials;
+- Target size of 10 pages (excluding cover and bibliography), with a limit of 15 pages including Appendixes for reference materials;
 - Pages must be numbered (preferably with a label like `Page X of Y`).
 
 ### 2.7.2. Document structure (mandatory)
 
 Same as the proposal, with the following differences:
 
-- All sections must be revised and updated;
-- Replace _Plan_ with _Results_: state what was actually achieved, with mention of strengths and weaknesses, and justification of implementation choices.
+- All proposal sections must be revised and updated;
+- New section: background (overview of used technologies) and related work (mention and comparison with other projects/products that inspired the current work);
+- Replace _Plan_ with _Results_: state the requirements that were actually achieved. Write a summary with mention of strengths and weaknesses of the solution, and justification of the main implementation choices.
 
 ## 2.8. Submit code and report
 
