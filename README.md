@@ -69,7 +69,7 @@ The project proposal should describe the specific problem to address and the pro
 Please bring a draft of the proposal to your lab session to present it and receive feedback.  
 IMPORTANT: the proposal document must be submitted on that same week, on the day following the lab session.
 
-## 2.3.1 Literature review
+### 2.3.1. Literature review
 
 Your proposal must include a (small) literature review, focused on the scenario.
 The review will start with a set of assigned papers, where you will learn about the core concepts and solution approaches.
@@ -247,7 +247,7 @@ IMPORTANT: after making the presentation, you will have to submit the presentati
 The links must be valid for one month, at least.
 The video can also be published in YouTube or a similar platform.
 
-### 2.10.4 Grading
+### 2.10.4. Grading
 
 The project grade will take into account:
 
