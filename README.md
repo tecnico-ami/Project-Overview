@@ -131,7 +131,7 @@ _What is the value to be added by the solution?_
 (where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits, `WWW` is the weekday of the lab shift – Mon, Tue, Wed, Thu, Fri – `HHMM` is the time – Hours and Minutes – and `L` is the lab room number);
 - Report cover: Project title. Headed by course name, group campus, group number.
 In the next row: group members sorted by ascending student number.
-For each student, include the number, name and a professional photo.
+For each student, include the number, name and a professional photo in color.
 All photos should be framed so that the faces are approximately of the same size;
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
 - The use of diagrams (such as UML or SysML) is recommended for clear and concise communication;
