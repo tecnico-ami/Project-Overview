@@ -187,7 +187,7 @@ Before the final deadline of the project, as stated in the Calendar (Section 3) 
 
 IMPORTANT: the code archive and the report are submitted separately on the Fénix system.
 
-### 2.8.1. Code archive requirements
+### Code archive requirements
 
 - ZIP format - without compiled code, only source and build scripts;
 - The mandatory file name is `CXX_WWW_HHMM_L_solution.zip`;
