@@ -16,24 +16,24 @@ For any questions regarding this document, please contact:
 The AmI (Ambient Intelligence) course requires a practical project dealing with so called "smart" technologies.  
 The whole process is organized in 10 sequential stages:
 
-| **Stage**                                                       |
-| ----------------------------------------------------------------|
-| [1. Assemble team](#21-assemble-team)                           |
-| [2. Pick topic](#22-pick-topic)                                 |
-| [3. Write proposal](#23-write-proposal)                         |
-| [4. Await approval](#24-await-approval)                         |
-| [5. Develop project](#25-develop-project)                       |
-| [6. Prepare demonstration](#26-prepare-demonstration)           |
-| [7. Write report](#27-write-report)                             |
-| [8. Submit code and report](#28-submit-code-and-report)         |
-| [9. Check presentation session](#29-check-presentation-session) |
-| [10. Present and defend](#210-present-and-defend)               |  
+| **Stage**                                                                             |
+| --------------------------------------------------------------------------------------|
+| [1. Assemble team](#21-assemble-team)                                                 |
+| [2. Pick topic](#22-pick-topic)                                                       |
+| [3. Write proposal with literature review](#23-write-proposal-with-literature-review) |
+| [4. Submit and await approval](#24-submit-and-await-approval)                                               |
+| [5. Develop project](#25-develop-project)                                             |
+| [6. Prepare demonstration](#26-prepare-demonstration)                                 |
+| [7. Write report](#27-write-report)                                                   |
+| [8. Submit code and report](#28-submit-code-and-report)                               |
+| [9. Check presentation session](#29-check-presentation-session)                       |
+| [10. Present and defend](#210-present-and-defend)                                     |  
 
 <br />
 
 # 2. Stages
 
-Each stage is described in the following sections.
+Each stage of the project is described in the following sections.
 
 ## 2.1. Assemble team
 
@@ -60,89 +60,97 @@ IMPORTANT: check the deadlines table for the topic selection opening and closing
 
 The official topic selection list will be posted after the process is concluded, to confirm the topic assigned to each group.
 
-## 2.3. Write proposal
+## 2.3. Write proposal with literature review
 
 After having a topic assigned, your group should prepare a proposal document.
-The project proposal should describe the problem and the proposed solution.
+One of the important parts of the document is a literature review related with the topic.
+The project proposal should describe the specific problem to address and the proposed solution.
 
 Please bring a draft of the proposal to your lab session to present it and receive feedback.  
-Groups without any member present in person on that week should schedule a teleconference with the lab professor.
-
 IMPORTANT: the proposal document must be submitted on that same week, on the day following the lab session.
 
-### 2.3.1. Technical requirements
+## 2.3.1 Literature review
 
-The planned project will need to have, _at least_:
+Your proposal must include a (small) literature review, focused on the scenario.
+The review will start with a set of assigned papers, where you will learn about the core concepts and solution approaches.
+Additionally, your group should search for 1 (one) additional paper to cite and summarize.
+This new paper must have been published in a scientific journal or conference related with ambient intelligence in the last 2 years.
+
+IMPORTANT: [list of journals and conferences related with ambient intelligence](https://github.com/tecnico-ami/awesome-ambient-intelligence#publications)
+
+### 2.3.2. Technical requirements
+
+The planned project will need to include:
 
 - sensors;
 - actuators;
 - network communication.
 
-### 2.3.2. Document requirements
+### 2.3.3. Document structure (mandatory)
+
+1. Introduction  
+_Present an overview of the project, with approximately 200 words._  
+2. Literature Review  
+_Define the main concepts related with your scenario._  
+_Summarize and cite the scientific papers assigned to and picked by your group._  
+_Size ~ 600 words._  
+3. Problem  
+_Given the chosen scenario, what is the problem being solved?_  
+_What is the value to be added by the solution?_  
+  3.1. Assumptions  
+  _Which conditions are assumed to be true for the solution to operate as intended?_  
+  3.2. Solution Requirements  
+  _Which requirements were identified for the solution? Present as a list._  
+4. Proposed solution  
+  4.1. Overview  
+  _Diagram of the architecture and brief explanation of all components._  
+  4.2 Logical design  
+  _Identify functions that the solution will perform._  
+  _Identify communicating entities and the messages they will exchange with a sequence or collaboration diagram._  
+  4.3 Technology selection  
+  _Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)._  
+  _Choose language(s) for implementation._  
+  _Describe the distinct devices and how they will be assembled and interconnected._  
+  _Choose protocol(s) for communication._
+5. Bill-of-materials  
+  5.1 Hardware  
+  _List of hardware components required for the work, and their purpose._  
+  5.2 Software  
+  _Tools and libraries to use, and their purpose._  
+6. Plan  
+  _Calendar of the tasks and assignment of group members to tasks._  
+  _Describe tasks required to gradually develop the work._  
+  _Start with the core functionalities, and then more advanced functions._  
+7. Bibliography  
+  _Scientific and technical publications cited in the proposal text._  
+
+### 2.3.4. Additional document requirements
 
 - PDF format;
-- Mandatory file name `CXX_WWW_HHMM_L_proposal.pdf` 
+- Mandatory file name `CXX_WWW_HHMM_L_proposal.pdf`;
 (where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits, `WWW` is the weekday of the lab shift – Mon, Tue, Wed, Thu, Fri – `HHMM` is the time – Hours and Minutes – and `L` is the lab room number);
 - Report cover: Project title. Headed by course name, group campus, group number.
 In the next row: group members sorted by ascending student number.
 For each student, include the number, name and a professional photo.
 All photos should be framed so that the faces are approximately of the same size;
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
-- Limit 5 pages (excluding cover);
-- Pages should be numbered (preferably with a label like `Page X of Y`);
-- The use of diagrams (such as UML or SysML) is recommended for clear and concise communication.
+- The use of diagrams (such as UML or SysML) is recommended for clear and concise communication;
+- Target size of 6 pages (including cover and bibliography);
+- Pages should be numbered (preferably with a label like `Page X of Y`).
 
-### 2.3.4. Document structure (mandatory)
+## 2.4. Submit and await approval
 
-1. Problem  
-_Given the chosen scenario, what is the problem being solved?_  
-_What is the value to be added by the solution?_  
-Use around 200 words.  
-  1.1. Assumptions  
-  _Which conditions are assumed to be true for the solution to operate as intended?_  
-  1.2. Solution Requirements  
-  _Which requirements were identified for the solution?_  
-  Present as a list.  
-2. Proposed solution  
-  2.1. Overview  
-  Diagram and explanation with at most 200 words.  
-  2.2 Logical design  
-    2.2.1 Functionalities to develop  
-    Identify functions that the solution will perform.  
-    2.2.2 Communication channel(s)  
-    Identify communicating entities and the messages they exchange with a sequence or collaboration diagram.  
-  2.3 Technology selection
-    2.3.1 Platform  
-    Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)  
-    Choose language(s) for implementation.  
-    2.3.2. Deployment  
-    Describe how the devices wil be assembled and interconnected for the demonstrator.  
-3. Plan  
-  3.1. Tasks  
-  Describe tasks required to gradually develop the work.  
-  Start with the core functionalities, and then more advanced functions.  
-  3.2. Schedule  
-  Calendar of the tasks and assignment of group members to tasks.  
-4. Bill-of-materials  
-  4.1 Hardware  
-  List of hardware components required for the work, and their purpose.  
-  4.2 Software  
-  Tools and libraries to use, and their purpose.  
-5. Bibliography  
-  Scientific and technical publications cited in the proposal text.  
+Before the proposal deadline, submit an archive with the proposal document and the new paper in the literature review.
 
-## 2.4. Await approval
-
-The proposal document will need to be approved by the course faculty.
-
+The proposal document will need to be approved by the course faculty.  
 IMPORTANT: the approval decision is communicated during the week following the proposal submission.
 
 ## 2.5. Develop project
 
-Develop basic, intermediate and advanced versions over the project weeks.
+Develop basic, intermediate and advanced versions of the project over the available weeks.
 
-Attend the lab sessions to present your ongoing development and receive early feedback from the professor.
-A project that receives regular feedback can be improved earlier and is more likely to get a better grade.
+Attend the lab sessions to present your ongoing development and receive early feedback from the professor.  
+A project that receives regular feedback can avoid mistakes, be improved earlier and is more likely to get a better grade.
 
 ## 2.6. Prepare demonstration
 
@@ -156,26 +164,26 @@ Record photos, videos or similar artifacts showing the project in action.
 The project final report should describe the problem and the implemented solution, along with a presentation of the results.
 The report document should update and extend the proposal document to reflect what was actually achieved.
 
-### 2.7.1. Document requirements
-
-- PDF format;
-- Mandatory file name `CXX_WWW_HHMM_L_report.pdf`;
-- Report cover;
-- Report body: The font should be no smaller than 11pt, with standard line and character spacing;
-- Target size of 10 pages (excluding cover and bibliography), with a limit of 15 pages including Appendixes for reference materials;
-- Pages must be numbered (preferably with a label like `Page X of Y`).
-
-### 2.7.2. Document structure (mandatory)
+### 2.7.1. Document structure (mandatory)
 
 Same as the proposal, with the following differences:
 
-- All proposal sections must be revised and updated;
-- New section: background (overview of used technologies) and related work (mention and comparison with other projects/products that inspired the current work);
-- Replace _Plan_ with _Results_: state the requirements that were actually achieved. Write a summary with mention of strengths and weaknesses of the solution, and justification of the main implementation choices.
+- Replace _Plan_ (Section 6) with _Conclusion_ (new Section 6).
+In it, state which requirements (from Section 3.2) were actually satisfied.
+Also, write a summary of the achieved results, with mention of strengths and weaknesses of the produced solution;
+- All other sections must be revised and updated to match the actual work produced.
+In particular, the _Literature Review_ (Section 2) should include mention of and comparison with other projects/products that actually inspired the work.
+
+### 2.7.2. Additional document requirements
+
+The changes to the proposal requirements are the following:
+
+- Mandatory file name `CXX_WWW_HHMM_L_report.pdf`;
+- Target size of 10 pages (excluding cover and bibliography).
 
 ## 2.8. Submit code and report
 
-Before the final deadline of the project, as stated in Section 3 of this document, submit an archive with all the developed code and resources, and the report document.
+Before the final deadline of the project, as stated in the Calendar (Section 3) of this document, submit an archive with all the developed code and resources, and the report document.
 
 IMPORTANT: the code archive and the report are submitted separately on the Fénix system.
 
@@ -183,7 +191,7 @@ IMPORTANT: the code archive and the report are submitted separately on the Féni
 
 - ZIP format - without compiled code, only source and build scripts;
 - The mandatory file name is `CXX_WWW_HHMM_L_solution.zip`;
-- README file, describing the required platform (e.g. Linux 64-bit, Ubuntu 18.04.1 LTS, Java 8u181) and setup instructions;
+- README file, describing the required platform (e.g. Linux 64-bit, Ubuntu 20.04 LTS, Java 17.0.3.1) and setup instructions;
 - All configuration files and scripts required to configure the solution on the specified platform;
 - All developed source code;
 - Existing tests and example files.
@@ -243,7 +251,8 @@ The video can also be published in YouTube or a similar platform.
 
 The project grade will take into account:
 
-- Project Design/rational (30%);
+- Literature review in project proposal (10%);
+- Project design/rational (20%);
 - Project implementation (30%);
 - Report (20%);
 - Presentation (20%).
