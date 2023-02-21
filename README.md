@@ -14,14 +14,14 @@ For any questions regarding this document, please contact:
 # 1. Introduction
 
 The AmI (Ambient Intelligence) course requires a practical project dealing with so called "smart" technologies.  
-The whole process is organized in 10 sequential stages:
+The whole process is organized in sequential stages:
 
 | **Stage**                                                                             |
 | --------------------------------------------------------------------------------------|
 | [1. Assemble team](#21-assemble-team)                                                 |
-| [2. Pick topic](#22-pick-topic)                                                       |
+| [2. Pick topic area](#22-pick-topic-area)                                             |
 | [3. Write proposal with literature review](#23-write-proposal-with-literature-review) |
-| [4. Submit and await approval](#24-submit-and-await-approval)                                               |
+| [4. Submit and await feedback](#24-submit-and-await-feedback)                         |
 | [5. Develop project](#25-develop-project)                                             |
 | [6. Prepare demonstration](#26-prepare-demonstration)                                 |
 | [7. Write report](#27-write-report)                                                   |
@@ -38,45 +38,40 @@ Each stage of the project is described in the following sections.
 ## 2.1. Assemble team
 
 Assemble a team of 3 students, committed to work together.  
-Inform the lab professor of the group members.
+Inform the laboratory professor of the group members.
 
-## 2.2. Pick topic
+## 2.2. Pick topic area
 
-The topics for the project are described in another document, which will be posted on the web site.
+The specific topic for the project should be selected by the project team.
 
-Read the scenarios descriptions and, as a group, sort the topics by preference for doing your work.
-Apply for a topic when the selection page opens.
-Each group should be represented by one student only.
+We suggest that the team starts by selecting one of the following broad topic areas:
 
-In the selection form, identify your group as `CXX`, where `C` is replaced by A(lameda) or T(aguspark) and `XX` is replaced by the two digits of your group number, as assigned by Fénix.
-For example, group 22 of Taguspark is T22 and group 7 of Alameda is A07.
+1. Smart Buildings  
+2. Industry & Supply Chain  
+3. Smart Cities  
+4. Assisted Living
 
-Also in the form, sort all the topics by order of preference.
-Number 1 will be your most preferred topic.
-
-There are limited vacancies per project topic and slots will be assigned on a _first-come-first-served_ basis.
-
-IMPORTANT: check the deadlines table for the topic selection opening and closing dates.
-
-The official topic selection list will be posted after the process is concluded, to confirm the topic assigned to each group.
+See [examples of project topics](https://github.com/tecnico-ami/Project-Topics/blob/main/README.md) for each topic area.
+You can adapt one of these ideas or propose a new one.
 
 ## 2.3. Write proposal with literature review
 
-After having a topic assigned, your group should prepare a proposal document.
-One of the important parts of the document is a literature review related with the topic.
+After having chosen a topic, your group should prepare a proposal document.
 The project proposal should describe the specific problem to address and the proposed solution.
 
-Please bring a draft of the proposal to your lab session to present it and receive feedback.  
-IMPORTANT: the proposal document must be submitted on that same week, on the day following the lab session.
+Please bring a draft of the proposal to your next laboratory session to present it and receive feedback.  
+IMPORTANT: the proposal document must be submitted on that same week, on the days following the laboratory session.
+
+One of the important parts of the document is the literature review.
 
 ### 2.3.1. Literature review
 
-Your proposal must include a (small) literature review, focused on the scenario.
-The review will start with a set of assigned papers, where you will learn about the core concepts and solution approaches.
-Additionally, your group should search for 1 (one) additional paper to cite and summarize.
-This new paper must have been published in a scientific journal or conference related with ambient intelligence in the last 2 years.
+Your proposal must include a (small) literature review, focused on the topic area.
+The review will start with a search for relevant scientific papers, where you will learn about the core concepts and solution approaches.
+The bibliography should have a minimum of 2 (two) and a maximum of 3 (three) papers.
+These papers must have been published in a scientific journal or conference related with ambient intelligence in the last 2 years.
 
-IMPORTANT: [list of journals and conferences related with ambient intelligence](https://github.com/tecnico-ami/awesome-ambient-intelligence#publications)
+IMPORTANT: see the [list of journals and conferences related with ambient intelligence](https://github.com/tecnico-ami/awesome-ambient-intelligence#publications)
 
 ### 2.3.2. Technical requirements
 
@@ -91,12 +86,12 @@ The planned project will need to include:
 1. Introduction  
 _Present an overview of the project, with approximately 200 words._  
 2. Literature Review  
-_Define the main concepts related with your scenario._  
+_Define the main concepts related with your topic area._  
 _Summarize and cite the scientific papers assigned to and picked by your group._  
-_Size ~ 600 words._  
+_Size ~ 300 words for each paper._  
 3. Problem  
-_Given the chosen scenario, what is the problem being solved?_  
-_What is the value to be added by the solution?_  
+_Given the chosen topic area, what is the specific problem being solved?_  
+_What is the value to be added by the proposed solution?_  
   3.1. Assumptions  
   _Which conditions are assumed to be true for the solution to operate as intended?_  
   3.2. Solution Requirements  
@@ -111,24 +106,25 @@ _What is the value to be added by the solution?_
   _Identify the main development platform (e.g. Arduino IDE, Android Studio, etc.)._  
   _Choose language(s) for implementation._  
   _Describe the distinct devices and how they will be assembled and interconnected._  
-  _Choose protocol(s) for communication._
+  _Choose protocol(s) for communication._  
+  _[See suggestions](https://github.com/tecnico-ami/awesome-ambient-intelligence)._  
 5. Bill-of-materials  
   5.1 Hardware  
   _List of hardware components required for the work, and their purpose._  
   5.2 Software  
   _Tools and libraries to use, and their purpose._  
 6. Plan  
-  _Calendar of the tasks and assignment of group members to tasks._  
   _Describe tasks required to gradually develop the work._  
   _Start with the core functionalities, and then more advanced functions._  
+  _Assign tasks to team members._  
 7. Bibliography  
   _Scientific and technical publications cited in the proposal text._  
 
 ### 2.3.4. Additional document requirements
 
 - PDF format;
-- Mandatory file name `CXX_WWW_HHMM_L_proposal.pdf`;
-(where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits, `WWW` is the weekday of the lab shift – Mon, Tue, Wed, Thu, Fri – `HHMM` is the time – Hours and Minutes – and `L` is the lab room number);
+- Mandatory file name `CXX_proposal.pdf`;
+(where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits);
 - Report cover: Project title. Headed by course name, group campus, group number.
 In the next row: group members sorted by ascending student number.
 For each student, include the number, name and a professional photo in color.
@@ -136,14 +132,15 @@ All photos should be framed so that the faces are approximately of the same size
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
 - The use of diagrams (such as UML or SysML) is recommended for clear and concise communication;
 - Target size of 6 pages (including cover and bibliography);
-- Pages should be numbered (preferably with a label like `Page X of Y`).
+- Pages must be numbered (preferably with a label like `Page X of Y`).
 
-## 2.4. Submit and await approval
+## 2.4. Submit and await feedback
 
-Before the proposal deadline, submit an archive with the proposal document and the new paper in the literature review.
+Before the proposal deadline expires, submit an archive with the proposal document and the papers included in the literature review.
 
-The proposal document will need to be approved by the course faculty.  
-IMPORTANT: the approval decision is communicated during the week following the proposal submission.
+The proposal document will be read by the course faculty and you will receive feedback.  
+Receiving the feedback is essential so that you can consider the proposal as approved, so be sure to attend the next laboratory session.
+Meanwhile, get started on the project.
 
 ## 2.5. Develop project
 
@@ -156,7 +153,7 @@ A project that receives regular feedback can avoid mistakes, be improved earlier
 
 IMPORTANT: once your team achieves the intermediate version of the work, start preparing the demonstration.
 
-Write a `README` file with step-by-step instructions on how to run your project.
+Write a `README` file to include on the project root directory, with step-by-step instructions on how to run your project.
 Record photos, videos or similar artifacts showing the project in action.
 
 ## 2.7. Write report
@@ -178,7 +175,7 @@ In particular, the _Literature Review_ (Section 2) should include mention of and
 
 The changes to the proposal requirements are the following:
 
-- Mandatory file name `CXX_WWW_HHMM_L_report.pdf`;
+- Mandatory file name `CXX_report.pdf`;
 - Target size of 10 pages (excluding cover and bibliography).
 
 ## 2.8. Submit code and report
@@ -190,8 +187,8 @@ IMPORTANT: the code archive and the report are submitted separately on the Féni
 ### Code archive requirements
 
 - ZIP format - without compiled code, only source and build scripts;
-- The mandatory file name is `CXX_WWW_HHMM_L_solution.zip`;
-- README file, describing the required platform (e.g. Linux 64-bit, Ubuntu 20.04 LTS, Java 17.0.3.1) and setup instructions;
+- The mandatory file name is `CXX_solution.zip`;
+- README file, describing the required platform (e.g. Linux 64-bit, Ubuntu 22.04 LTS, Java 17.0.3.1) and setup instructions;
 - All configuration files and scripts required to configure the solution on the specified platform;
 - All developed source code;
 - Existing tests and example files.
@@ -214,8 +211,8 @@ For the discussion questions, students can answer in Portuguese.
 
 The presentations will be organized as follows:
 
-- 10 minutes for presentation of the work done, supported by slides, including a mandatory live demo  
-(also prepare a video of the demo, as backup, just in case there is a technical problem);
+- 10 minutes for presentation of the work done, supported by slides, including a mandatory live demonstration  
+(also prepare a video of the demonstration, as backup, just in case there is a technical problem);
 - 10 minutes for questions and answers.
 
 It is highly recommended that each presentation includes:
@@ -241,7 +238,7 @@ Each student is expected to attend one full session beyond the one where s/he wi
 IMPORTANT: after making the presentation, you will have to submit the presentation and video on Fénix.
 
 - ZIP format;
-- The mandatory file name is `CXX_WWW_HHMM_L_presentation.zip`;
+- The mandatory file name is `CXX_presentation.zip`;
 - Presentation in PDF and also in source format (e.g. PowerPoint);
 - Text file containing link(s) to download video, photos, screenshots and other media of the solution in action. 
 The links must be valid for one month, at least.
@@ -255,30 +252,29 @@ The project grade will take into account:
 - Project design/rational (20%);
 - Project implementation (30%);
 - Report (20%);
-- Presentation (20%).
+- Presentation (15%);
+- Live Demonstration (5%).
+
+If the demonstration is not live, then you forfeit that evaluation component.
 
 # 3. Calendar
 
-The relevant dates for the project are shown in the following calendar (all dates are in 2022).
+The relevant dates for the project are shown in the following calendar (all dates are in 2023).
 
 | **Stage**                  | **Deadline**                                                                      |
 | ---------------------------|-----------------------------------------------------------------------------------|
-| 1. Assemble team           | Week of March 7th, 2022. Opens on Wednesday, March 9th, 2022, 11:30 |
-| 2. Pick topic              | Until Friday, March 11th, 2022, 17:00 |
-| 3. Write proposal          | Until Thursday, March 17th, 2022, 17:00 |
-| 4. Await approval          | In the next lab session, after the submission |
-| 5. Develop project         | Until Friday, April 8th, 2022, 17:00 |
-| 6. Prepare demonstration   | Start preparing before submission |
-| 7. Write report            | Update document as you go |
-| 8. Submit code and report  | **Code**: Friday, April 8th, 2022, 17:00. **Report:** Tuesday, April 12th, 2002, 17:00 |
-| 9. Check presentation session | Until Tuesday, April 12th, 2022, 17:00 |
-| 10. Present and defend     | Sessions start Monday, April 18th, 2022. |
-
-----
+| Assemble team              | Week of February 20th. Opens on Monday                                            |
+| Write proposal             | Until Thursday, March 2nd, 17:00                                                  |
+| Develop project            | Until Friday, March 24th                                                          |
+| Prepare demonstration      | Start preparing midway through the development                                    |
+| Write report               | Update document as you go                                                         |
+| Submit code and report     | **Code**: Monday, March 27th, 17:00. **Report:** Wednesday, March 29th, 17:00     |
+| Check presentation session | Until Friday, March 31st                                                          |
+| Present and defend         | Sessions start Monday, April 10th.                                                |
 
 ## 3.1. Updates
 
-IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/AI/2021-2022/2-semestre) for updates and links to online forms.
+IMPORTANT: keep track of the course [web site](https://fenix.tecnico.ulisboa.pt/disciplinas/AI/2022-2023/2-semestre) for announcements.
 
 If there are changes to this document, they can be consulted in the _Git Commit History_.
 
