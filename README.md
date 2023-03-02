@@ -136,7 +136,7 @@ All photos should be framed so that the faces are approximately of the same size
 
 ## 2.4. Submit and await feedback
 
-Before the proposal deadline expires, submit an archive with the proposal document and the papers included in the literature review.
+Before the proposal deadline expires, submit a ZIP archive with the proposal document and the papers included in the literature review.
 
 The proposal document will be read by the course faculty and you will receive feedback.  
 Receiving the feedback is essential so that you can consider the proposal as approved, so be sure to attend the next laboratory session.
