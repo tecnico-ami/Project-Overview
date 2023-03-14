@@ -212,7 +212,7 @@ For the discussion questions, students can answer in Portuguese.
 The presentations will be organized as follows:
 
 - 10 minutes for presentation of the work done, supported by slides, including a mandatory live demonstration  
-(also prepare a video of the demonstration, as backup, just in case there is a technical problem);
+(also prepare a video of the demonstration);
 - 10 minutes for questions and answers.
 
 It is highly recommended that each presentation includes:
@@ -240,7 +240,8 @@ IMPORTANT: after making the presentation, you will have to submit the presentati
 - ZIP format;
 - The mandatory file name is `CXX_presentation.zip`;
 - Presentation in PDF and also in source format (e.g. PowerPoint);
-- Text file containing link(s) to download video, photos, screenshots and other media of the solution in action. 
+- Text file containing link to download video.
+You can also include photos, screenshots, and other media of the solution in action. 
 The links must be valid for one month, at least.
 The video can also be published in YouTube or a similar platform.
 
@@ -248,7 +249,7 @@ The video can also be published in YouTube or a similar platform.
 
 The project grade will take into account:
 
-- Literature review in project proposal (10%);
+- Literature review (10%);
 - Project design/rational (20%);
 - Project implementation (30%);
 - Report (20%);
