@@ -153,7 +153,7 @@ A project that receives regular feedback can avoid mistakes, be improved earlier
 
 IMPORTANT: once your team achieves the intermediate version of the work, start preparing the demonstration.
 
-Write a `README` file to include on the project root directory, with step-by-step instructions on how to run your project.
+Write a `README` file to include on the project root directory, with step-by-step instructions on how to assemble and run your project.  
 Record photos, videos or similar artifacts showing the project in action.
 
 ## 2.7. Write report
@@ -188,7 +188,7 @@ IMPORTANT: the code archive and the report are submitted separately on the Féni
 
 - ZIP format - without compiled code, only source and build scripts;
 - The mandatory file name is `CXX_solution.zip`;
-- README file, describing the required platform (e.g. Linux 64-bit, Ubuntu 22.04 LTS, Java 17.0.3.1) and setup instructions;
+- `README` file, describing the required platforms, components, software, and setup instructions;
 - All configuration files and scripts required to configure the solution on the specified platform;
 - All developed source code;
 - Existing tests and example files.
