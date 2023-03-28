@@ -153,7 +153,7 @@ A project that receives regular feedback can avoid mistakes, be improved earlier
 
 IMPORTANT: once your team achieves the intermediate version of the work, start preparing the demonstration.
 
-Write a `README` file to include on the project root directory, with step-by-step instructions on how to assemble and run your project.  
+Write a [`README` file](https://gist.github.com/miguelpardal/dedf25563c37b8fa906fd8cf23b5daae) to include on the project root directory, with step-by-step instructions on how to assemble and run your project.  
 Record photos, videos or similar artifacts showing the project in action.
 
 ## 2.7. Write report
