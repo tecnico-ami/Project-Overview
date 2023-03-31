@@ -196,10 +196,10 @@ IMPORTANT: the code archive and the report are submitted separately on the Féni
 ## 2.9. Check presentation session
 
 The project presentations will occur on the dates following the submission deadline.  
-The presentation session calendar will be made available during the final days of the project.
+The presentation session calendar will be made available during the final days of the project or after the submission.
 
 Each group is assigned to a session, in their respective campus, preferably in the time-slot of laboratory they are enrolled to.  
-If your group requires a change in the proposed slot, please contact faculty.
+If your group requires a change in the proposed slot, please contact faculty by email.
 
 ## 2.10. Present and defend
 
@@ -231,7 +231,7 @@ The presentations are done by the whole group, in person, on campus.
 Each group must attend from the beginning of their assigned session and remain for the duration of it.
 
 Presenters need to be physically present in the lecture room.
-Each student is expected to attend one full session beyond the one where s/he will present.
+Each student is also invited to attend another full session beyond the one where s/he will present.
 
 ### 2.10.3. Presentation archive requirements
 
@@ -244,6 +244,8 @@ IMPORTANT: after making the presentation, you will have to submit the presentati
 You can also include photos, screenshots, and other media of the solution in action. 
 The links must be valid for one month, at least.
 The video can also be published in YouTube or a similar platform.
+
+Optionally, the ZIP may also include an updated README and other files modified after the code submission.
 
 ### 2.10.4. Grading
 
