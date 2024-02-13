@@ -57,15 +57,19 @@ You can adapt one of these ideas or propose a new one.
 
 ## 2.3 Register team
 
-Inform the laboratory professor of the team members, in person, at in the next laboratory session.  
+Go to Fénix and register your team, on the laboratory schedule where all the team members are enrolled.  
+You are expected to complete this registration before the first laboratory session.
+
+Even if you do not have a full team yet, attend the first laboratory session, to meet colleagues also looking for a team.
+
 Make sure your photograph is up-to-date and of good quality on Fénix.  
-If necessary, go to Fénix, Personal, 1 Photograph, hover photo, Submit Photos.
+If your photo is not good enough, go to Fénix, Personal, Photograph, hover photo with mouse, Submit Photos.
 
 ## 2.4 Present team and idea
 
 In the first laboratory session, each team will present its members and the initial project idea.  
 Each team member should have one dedicated slide, featuring their name, concise biography, and prior experience with programming and hardware tinkering, e.g., projects with Arduinos or Raspberry Pis.  
-Additionally, and very important, one slide outlining the project idea, including a title and a succinct description.
+The most important slide will present the initial project idea, including a title and a succinct description.
 
 ## 2.5. Write proposal with literature review
 
@@ -143,7 +147,7 @@ _Who are the stakeholders?_
 (where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits);
 - Report cover: Project title. Headed by course name, group campus, group number.
 In the next row: group members sorted by ascending student number.
-Include a team photo of the complete team, together in the same physical location, sorted according to student number;
+Include a team photo of the complete team, taken together, at the same physical location, arranged in sequence by ascending student number;
 - Report body: The font should be no smaller than 11pt, with standard line and character spacing;
 - The use of diagrams (such as UML or SysML) is recommended for clear and concise communication;
 - Target size of 6 pages (including cover and bibliography);
@@ -274,10 +278,9 @@ The relevant dates for the project are shown in the following calendar (all date
 
 | **Stage**                    | **Deadline**                                                                      |
 | -----------------------------|-----------------------------------------------------------------------------------|
-| Assemble team                | Until Monday, February 19th                                                       |
-| Register team                | In the lab session of Tuesday, February 20th                                      |
-| Present team and idea        | Also in the lab session of Tuesday, February 20th                                 |
-| Write proposal               | Until Friday, February 23rd, 17:00. Feedback in following lab                     |
+| Assemble and register team   | Until Monday, February 19th, 20:00 or in the first lab                            |
+| Present team and idea        | In the lab session of Tuesday, February 20th                                      |
+| Write proposal               | Until Friday, February 23rd, 17:00                                                |
 | Develop project              | Until Wednesday, March 20th. Present progress in each lab for feedback            |
 | Prepare demonstration        | Start preparing midway through the development                                    |
 | Write report                 | Regularly revise the document as progress is made                                 |
