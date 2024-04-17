@@ -102,11 +102,10 @@ The planned project will need to include:
 ### 2.5.3. Document structure (mandatory)
 
 1. Introduction  
-_Present an overview of the project, with approximately 200 words._  
+_Provide an overview of the project, its significance, and objectives._
 2. Literature Review  
-_Define the main concepts related with your topic area._  
-_Summarize and cite the scientific papers assigned to and picked by your group._  
-_Size ~ 200 words for each paper._  
+_Summarize and cite the selected scientific papers, defining the main concepts, discussing strengths and weaknesses of the works, and influences they had on the proposal._  
+_Expected size: approximately 200 words for each paper._  
 3. Problem  
 _Given the chosen topic area, what is the specific problem being solved?_  
 _What is the value to be added by the proposed solution?_  
@@ -134,17 +133,21 @@ _Who are the stakeholders?_
   5.2 Software  
   _Specify the tools and libraries to be utilized and their intended functions._  
 6. Plan  
-  _Outline the tasks for gradual project development._  
-  _Define milestones with increasing functionality._  
+  6.1 Team organization  
   _Assign responsibilities to team members._  
+  6.2 Tasks and milestones  
+  _Outline the tasks for the project development._  
+  _Define milestones of increasing functionality of the solution._  
 7. Bibliography  
   _Provide the authors, title, and publication details of scientific and technical documents referenced in the proposal text._  
+
+Target size of document: 1000 words, limit 1500 words.
 
 ### 2.5.4. Additional document requirements
 
 - PDF format;
 - Mandatory file name `CXX_proposal.pdf`;
-(where `C` is A for Alameda, T for Tagus, `XX` is the Fenix group number with two digits);
+(where `C` is replaced with `A` for Alameda, `T` for Tagus, and `XX` is replaced with the Fenix group number with two digits);
 - Report cover: Project title. Headed by course name, group campus, group number.
 In the next row: group members sorted by ascending student number.
 Include a team photo of the complete team, taken together, at the same physical location, arranged in sequence by ascending student number;
@@ -180,12 +183,34 @@ The report document should update and extend the proposal document to reflect wh
 
 ### 2.9.1. Document structure (mandatory)
 
-Same as the proposal, with the following differences:
+The report structure is the following:
 
-- Replace _Plan_ (Section 6) with _Conclusion_ (new Section 6).
-In it, state which requirements (from Section 3.1) were actually satisfied.
-Also, write a summary of the achieved results, with an assessment of the strengths and weaknesses of the developed solution;
-- Revise all other sections to accurately reflect the final solution.
+1. Introduction  
+2. Literature Review  
+3. Problem  
+  3.1. Solution Requirements  
+  3.2. Assumptions  
+4. Proposed solution  
+  4.1. Overview  
+  4.2 Logical design  
+  4.3 Technology selection  
+5. Bill-of-materials  
+  5.1 Hardware  
+  5.2 Software  
+6. **Evaluation**  
+  6.1 **Teamwork**  
+  6.2 **Results**  
+7. **Conclusion**  
+8. Bibliography  
+
+The structure of the report document is similar to the structure of the proposal but the _Plan_ (old Section 6) is replaced by _Evaluation_ (new Section 6).
+The _Teamwork_ (6.1) should review how the work was divided by the team.
+The _Results_ (6.2) must present the main results and state which requirements (from Section 3.1) were actually satisfied (_satisfied_, _partially satisfied_, _not satisfied_) with brief explanations for each one.  
+Finally, the _Conclusion_ (Section 7) should make a critical assessment of what was achieved, pointing out what the solution does well and where it could be improved in the future.
+
+All sections must be updated to accurately reflect the final solution.
+
+Target size: 1500 words, limit 2000 words
 
 ### 2.9.2. Additional document requirements
 
